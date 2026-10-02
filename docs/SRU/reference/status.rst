@@ -7,6 +7,8 @@ Status pages
    queue <http://sponsoring-reports.ubuntu.com/general.html>`__.
 -  **Pending accept:** package updates awaiting review for:
 
+   -  `Ubuntu 26.04 LTS "Resolute
+      Raccoon" <https://launchpad.net/ubuntu/resolute/+queue?queue_state=1&queue_text=>`__
    -  `Ubuntu 24.04 LTS "Noble
       Numbat" <https://launchpad.net/ubuntu/noble/+queue?queue_state=1&queue_text=>`__
    -  `Ubuntu 22.04 LTS "Jammy
